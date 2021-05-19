@@ -1,0 +1,2 @@
+C:\VS Projects\TWL\Debug\TWL.exe
+C:\VS Projects\TWL\Debug\TWL.pdb

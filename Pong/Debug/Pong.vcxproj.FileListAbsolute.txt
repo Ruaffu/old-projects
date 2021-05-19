@@ -1,0 +1,2 @@
+C:\VS Projects\Pong\Debug\Pong.exe
+C:\VS Projects\Pong\Debug\Pong.pdb

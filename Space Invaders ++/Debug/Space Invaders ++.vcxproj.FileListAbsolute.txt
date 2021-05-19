@@ -1,0 +1,2 @@
+C:\VS Projects\Space Invaders ++\Debug\Space Invaders ++.exe
+C:\VS Projects\Space Invaders ++\Debug\Space Invaders ++.pdb
